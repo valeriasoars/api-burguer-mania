@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|d:\\projetos\\burguer-mania\\api\\webapiburguermania\\webapiburguermania\\migrations\\20241203194409_colunanomeproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|solutionrelative:webapiburguermania\\migrations\\20241203194409_colunanomeproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|d:\\projetos\\burguer-mania\\api\\webapiburguermania\\webapiburguermania\\services\\produto\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|solutionrelative:webapiburguermania\\services\\produto\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|d:\\projetos\\burguer-mania\\api\\webapiburguermania\\webapiburguermania\\services\\produto\\iproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|solutionrelative:webapiburguermania\\services\\produto\\iproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|d:\\projetos\\burguer-mania\\api\\webapiburguermania\\webapiburguermania\\dto\\produto\\editarprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|solutionrelative:webapiburguermania\\dto\\produto\\editarprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|d:\\projetos\\burguer-mania\\api\\webapiburguermania\\webapiburguermania\\dto\\produto\\adicionarprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|solutionrelative:webapiburguermania\\dto\\produto\\adicionarprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|d:\\projetos\\burguer-mania\\api\\webapiburguermania\\webapiburguermania\\models\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|solutionrelative:webapiburguermania\\models\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|d:\\projetos\\burguer-mania\\api\\webapiburguermania\\webapiburguermania\\migrations\\20241203192557_colunanomecategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|solutionrelative:webapiburguermania\\migrations\\20241203192557_colunanomecategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|d:\\projetos\\burguer-mania\\api\\webapiburguermania\\webapiburguermania\\services\\categoria\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|solutionrelative:webapiburguermania\\services\\categoria\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|d:\\projetos\\burguer-mania\\api\\webapiburguermania\\webapiburguermania\\dto\\categoria\\adicionarcategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|solutionrelative:webapiburguermania\\dto\\categoria\\adicionarcategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|d:\\projetos\\burguer-mania\\api\\webapiburguermania\\webapiburguermania\\dto\\categoria\\editarcategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|solutionrelative:webapiburguermania\\dto\\categoria\\editarcategoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|d:\\projetos\\burguer-mania\\api\\webapiburguermania\\webapiburguermania\\models\\categoriamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|solutionrelative:webapiburguermania\\models\\categoriamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|d:\\projetos\\burguer-mania\\api\\webapiburguermania\\webapiburguermania\\controllers\\itempedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|solutionrelative:webapiburguermania\\controllers\\itempedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|d:\\projetos\\burguer-mania\\api\\webapiburguermania\\webapiburguermania\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}|WebApiBurguerMania\\WebApiBurguerMania.csproj|solutionrelative:webapiburguermania\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241203194409_colunaNomeProduto.cs",
+              "DocumentMoniker": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Migrations\\20241203194409_colunaNomeProduto.cs",
+              "RelativeDocumentMoniker": "WebApiBurguerMania\\Migrations\\20241203194409_colunaNomeProduto.cs",
+              "ToolTip": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Migrations\\20241203194409_colunaNomeProduto.cs",
+              "RelativeToolTip": "WebApiBurguerMania\\Migrations\\20241203194409_colunaNomeProduto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:44:11.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Services\\Produto\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "WebApiBurguerMania\\Services\\Produto\\ProdutoService.cs",
+              "ToolTip": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Services\\Produto\\ProdutoService.cs",
+              "RelativeToolTip": "WebApiBurguerMania\\Services\\Produto\\ProdutoService.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAwwF4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:41:00.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProduto.cs",
+              "DocumentMoniker": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Services\\Produto\\IProduto.cs",
+              "RelativeDocumentMoniker": "WebApiBurguerMania\\Services\\Produto\\IProduto.cs",
+              "ToolTip": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Services\\Produto\\IProduto.cs",
+              "RelativeToolTip": "WebApiBurguerMania\\Services\\Produto\\IProduto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:40:58.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditarProdutoDto.cs",
+              "DocumentMoniker": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Dto\\Produto\\EditarProdutoDto.cs",
+              "RelativeDocumentMoniker": "WebApiBurguerMania\\Dto\\Produto\\EditarProdutoDto.cs",
+              "ToolTip": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Dto\\Produto\\EditarProdutoDto.cs",
+              "RelativeToolTip": "WebApiBurguerMania\\Dto\\Produto\\EditarProdutoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:40:48.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdicionarProdutoDto.cs",
+              "DocumentMoniker": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Dto\\Produto\\AdicionarProdutoDto.cs",
+              "RelativeDocumentMoniker": "WebApiBurguerMania\\Dto\\Produto\\AdicionarProdutoDto.cs",
+              "ToolTip": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Dto\\Produto\\AdicionarProdutoDto.cs",
+              "RelativeToolTip": "WebApiBurguerMania\\Dto\\Produto\\AdicionarProdutoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:40:43.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdutoModel.cs",
+              "DocumentMoniker": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Models\\ProdutoModel.cs",
+              "RelativeDocumentMoniker": "WebApiBurguerMania\\Models\\ProdutoModel.cs",
+              "ToolTip": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Models\\ProdutoModel.cs",
+              "RelativeToolTip": "WebApiBurguerMania\\Models\\ProdutoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:33:18.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241203192557_colunaNomeCategoria.cs",
+              "DocumentMoniker": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Migrations\\20241203192557_colunaNomeCategoria.cs",
+              "RelativeDocumentMoniker": "WebApiBurguerMania\\Migrations\\20241203192557_colunaNomeCategoria.cs",
+              "ToolTip": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Migrations\\20241203192557_colunaNomeCategoria.cs",
+              "RelativeToolTip": "WebApiBurguerMania\\Migrations\\20241203192557_colunaNomeCategoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:26:00.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Services\\Categoria\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "WebApiBurguerMania\\Services\\Categoria\\CategoriaService.cs",
+              "ToolTip": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Services\\Categoria\\CategoriaService.cs",
+              "RelativeToolTip": "WebApiBurguerMania\\Services\\Categoria\\CategoriaService.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAcwIgAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:23:30.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditarCategoriaDto.cs",
+              "DocumentMoniker": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Dto\\Categoria\\EditarCategoriaDto.cs",
+              "RelativeDocumentMoniker": "WebApiBurguerMania\\Dto\\Categoria\\EditarCategoriaDto.cs",
+              "ToolTip": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Dto\\Categoria\\EditarCategoriaDto.cs",
+              "RelativeToolTip": "WebApiBurguerMania\\Dto\\Categoria\\EditarCategoriaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:23:12.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdicionarCategoriaDto.cs",
+              "DocumentMoniker": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Dto\\Categoria\\AdicionarCategoriaDto.cs",
+              "RelativeDocumentMoniker": "WebApiBurguerMania\\Dto\\Categoria\\AdicionarCategoriaDto.cs",
+              "ToolTip": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Dto\\Categoria\\AdicionarCategoriaDto.cs",
+              "RelativeToolTip": "WebApiBurguerMania\\Dto\\Categoria\\AdicionarCategoriaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:22:49.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriaModel.cs",
+              "DocumentMoniker": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Models\\CategoriaModel.cs",
+              "RelativeDocumentMoniker": "WebApiBurguerMania\\Models\\CategoriaModel.cs",
+              "ToolTip": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Models\\CategoriaModel.cs",
+              "RelativeToolTip": "WebApiBurguerMania\\Models\\CategoriaModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:22:24.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "WebApiBurguerMania\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "WebApiBurguerMania\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:08:59.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemPedidoController.cs",
+              "DocumentMoniker": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Controllers\\ItemPedidoController.cs",
+              "RelativeDocumentMoniker": "WebApiBurguerMania\\Controllers\\ItemPedidoController.cs",
+              "ToolTip": "D:\\Projetos\\burguer-mania\\api\\WebApiBurguerMania\\WebApiBurguerMania\\Controllers\\ItemPedidoController.cs",
+              "RelativeToolTip": "WebApiBurguerMania\\Controllers\\ItemPedidoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:08:54.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

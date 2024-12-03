@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiBurguerMania", "WebApiBurguerMania\WebApiBurguerMania.csproj", "{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F5AD01-AF72-4F74-AA8E-1A43348FF6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36C76D0A-E34B-472A-8E3A-2C61E37EEBA9}
+	EndGlobalSection
+EndGlobal
