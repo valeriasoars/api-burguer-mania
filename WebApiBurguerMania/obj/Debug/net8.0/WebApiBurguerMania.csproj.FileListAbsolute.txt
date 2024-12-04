@@ -166,3 +166,4 @@ D:\Projetos\burguer-mania\api\WebApiBurguerMania\WebApiBurguerMania\obj\Debug\ne
 D:\Projetos\burguer-mania\api\WebApiBurguerMania\WebApiBurguerMania\obj\Debug\net8.0\WebApiBurguerMania.pdb
 D:\Projetos\burguer-mania\api\WebApiBurguerMania\WebApiBurguerMania\obj\Debug\net8.0\WebApiBurguerMania.genruntimeconfig.cache
 D:\Projetos\burguer-mania\api\WebApiBurguerMania\WebApiBurguerMania\obj\Debug\net8.0\ref\WebApiBurguerMania.dll
+D:\Projetos\burguer-mania\api\WebApiBurguerMania\WebApiBurguerMania\obj\Debug\net8.0\WebApiBurguerMania.sourcelink.json

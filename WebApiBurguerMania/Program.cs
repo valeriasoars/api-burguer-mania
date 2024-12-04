@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using WebApiBurguerMania.Data;
+using WebApiBurguerMania.Seed;
 using WebApiBurguerMania.Services.Categoria;
 using WebApiBurguerMania.Services.ItemPedido;
 using WebApiBurguerMania.Services.Pedido;
@@ -38,6 +39,7 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
@@ -52,5 +54,20 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+
+
+// Aplica as migrações pendentes e realiza o seeding
+using (var scope = app.Services.CreateScope())
+{
+    var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+
+    // Aplica as migrações pendentes no banco de dados
+    dbContext.Database.Migrate();
+
+    // Chama o Seeder para inserir os dados
+    Seeder.SeedAll(dbContext);
+}
+
 
 app.Run();
